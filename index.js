@@ -127,7 +127,7 @@ let targets = [
     retailer: "Nvidia",
   },
   {
-    name: "RYZEN 9 5900X",
+    name: "Ryzen 9 5900X",
     type: "CPU",
     url:
       "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html",
@@ -140,11 +140,39 @@ let targets = [
       "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-5800x-processor-10216690-pdt.html",
     retailer: "Currys",
   },
+  {
+    name: "Ryzen 5 5600X",
+    type: "CPU",
+    url:
+      "https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html",
+    retailer: "NovaUk",
+  },
+  {
+    name: "Ryzen 7 5800X",
+    type: "CPU",
+    url:
+      "https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html",
+    retailer: "NovaUk",
+  },
+  {
+    name: "Ryzen 9 5900X",
+    type: "CPU",
+    url:
+      "https://www.novatech.co.uk/products/amd-ryzen-9-5900x-twelve-core-processorcpu-without-cooler-/100-100000061wof.html",
+    retailer: "NovaUk",
+  },
+  {
+    name: "Ryzen 5 5600X",
+    type: "CPU",
+    url:
+      "https://www.box.co.uk/100-100000065BOX-AMD-Ryzen-5-5600X-(Socket-AM4)-Processor_3213590.html",
+    retailer: "BoxUk",
+  }
 ];
 
 let testTargets = [
   {
-    name: "TEST | ADEON RX 5600 XT PULSE",
+    name: "TEST | RADEON RX 5600 XT PULSE",
     type: "Gpu",
     url:
       "https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html",
@@ -163,6 +191,13 @@ let testTargets = [
     url:
       "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-3800x-processor-10194807-pdt.html?intcmpid=display~RR",
     retailer: "Currys",
+  },
+  {
+    name: "TEST | Ryzen 5 3600XT",
+    type: "CPU",
+    url:
+      "https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html",
+    retailer: "BoxUk",
   },
 ];
 
@@ -205,8 +240,6 @@ const checkTargets = () => {
           uri: ctx.url,
         },
         function (error, response, page) {
-          // console.log(ctx.url);
-
           switch (ctx.retailer) {
             case "OcUk":
               saveResponseOc(page, ctx);
@@ -215,22 +248,16 @@ const checkTargets = () => {
               saveResponseScan(page, ctx);
               break;
             case "NovaUk":
-              saveResonseNovatech(page, ctx);
+              saveResponseNovatech(page, ctx);
               break;
             case "BoxUk":
-              saveResonseBox(page, ctx);
+              saveResponseBox(page, ctx);
               break;
             case "CCL":
               saveResponseCCL(page, ctx);
               break;
             case "Nvidia":
               saveResponseNvidia(page, ctx);
-              break;
-            case "AMDproduct":
-              saveResponseAMDProduct(page, ctx);
-              break;
-            case "AMD":
-              saveResponseAMD(page, ctx);
               break;
             case "Currys":
               saveResponseCurrys(page, ctx);
@@ -278,8 +305,36 @@ const saveResponseScan = (page, ctx) => {
   } else {
   }
 };
-const saveResonseNovatech = (page, ctx) => {};
-const saveResonseBox = (page, ctx) => {};
+const saveResponseNovatech = (page, ctx) => {
+  data = [];
+  const $ = cheerio.load(page);
+
+  let initialResult = $(".alert.alert-danger")[0];
+  // possibly, in stock...
+  if (typeof initialResult === "undefined") {
+    let secondResult = $(".basket-button.green-solid")[0];
+    // in stock!
+    if (typeof secondResult !== "undefined") {
+      handleProductFound(ctx);
+    }
+  } else {
+  }
+};
+const saveResponseBox = (page, ctx) => {
+  data = [];
+  const $ = cheerio.load(page);
+
+  let initialResult = $(".btn.grey.pop-reminder")[0];
+  // possibly, in stock...
+  if (typeof initialResult === "undefined") {
+    let secondResult = $(".p-buy.green.btn")[0];
+    // in stock!
+    if (typeof secondResult !== "undefined") {
+      handleProductFound(ctx);
+    }
+  } else {
+  }
+};
 const saveResponseCCL = (page, ctx) => {
   data = [];
   const $ = cheerio.load(page);
@@ -311,7 +366,7 @@ const saveResponseAMDProduct = (page, ctx) => {
   try {
     data = [];
     const $ = cheerio.load(page);
-
+    saveToFile(page);
     let stockText = $(".btn-radeon")[0].innerText;
     console.log(stockText);
     if (stockText != "AMD.COM - OUT OF STOCK") {
@@ -320,21 +375,25 @@ const saveResponseAMDProduct = (page, ctx) => {
   } catch (err) {
     console.log("AMD - Product | Error");
     console.log(err);
-    sendTweet("AMD Product error!");
+    //sendTweet("AMD Product error!");
   }
 };
 const saveResponseCurrys = (page, ctx) => {
-  data = [];
-  const $ = cheerio.load(page);
-  let initialResult = $("li.nostock")[0];
-  // possibly, in stock...
-  if (typeof initialResult === "undefined") {
-    let secondResult = $(".check-delivery-options")[0];
-    // in stock!
-    if (typeof secondResult !== "undefined") {
-      handleProductFound(ctx);
+  try {
+    data = [];
+    const $ = cheerio.load(page);
+    let initialResult = $("li.nostock")[0];
+    // possibly, in stock...
+    if (typeof initialResult === "undefined") {
+      let secondResult = $(".check-delivery-options")[0];
+      // in stock!
+      if (typeof secondResult !== "undefined") {
+        handleProductFound(ctx);
+      }
+    } else {
     }
-  } else {
+  } catch (err) {
+    console.log(err);
   }
 };
 const handleProductFound = (ctx) => {
@@ -342,12 +401,10 @@ const handleProductFound = (ctx) => {
   let logMessage = `${getCurrentDate()} | ${ctx.name} | ${ctx.url} `;
 
   // only send tweet when app is live!
-  if (appConfig.TEST_APP == "false")sendTweet(twitterMessage);
-  
+  if (appConfig.TEST_APP == "false") sendTweet(twitterMessage);
+
   saveToFile(logMessage);
   console.log(logMessage);
-
-
 };
 const saveToFile = (data) => {
   fs.appendFile("log.txt", "\n " + data, function (err) {});
@@ -369,11 +426,13 @@ const getCurrentDate = () => {
 };
 
 // START THE APP
-if (appConfig.ENABLE_APP == "true")
+if (appConfig.ENABLE_APP == "true") {
   setInterval(() => {
     checkTargets();
   }, 120000);
-  //120000
+}
+
+// 120000
 // Nvidia
 // $('.featured-buy-link')[0].text()
 // .stock-grey-out

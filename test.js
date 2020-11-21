@@ -46,6 +46,30 @@ setTimeout(() => {
 // .btn-radeon : SOLD OUT
 
 
+// Handle edge cases for AMD website.
+      if (ctx.retailer == "AMD" || ctx.retailer == "AMDproduct") {
+          console.log(ctx.name)
+        axios
+          .get(ctx.url)
+          .then((page) => {
+            switch (ctx.retailer) {
+                case "AMDproduct":
+                  saveResponseAMDProduct(page.data, ctx);
+                  break;
+                case "AMD":
+                  saveResponseAMD(page.data, ctx);
+                  break;          
+                default:
+                  break;
+              }
+          })
+          .catch((err) => {
+            console.log(err);
+          });
+       
+        }
+
+
 
 
 let targets = [
