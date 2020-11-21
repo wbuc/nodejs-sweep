@@ -8,6 +8,7 @@ const twit = require("twit");
 const appConfig = require("./app-config");
 
 // DATASOURCE pages ##########
+
 let targets = [
   {
     name: "AMD - Radeon",
@@ -325,11 +326,10 @@ const saveResponseAMDProduct = (page, ctx) => {
 const saveResponseCurrys = (page, ctx) => {
   data = [];
   const $ = cheerio.load(page);
-
   let initialResult = $("li.nostock")[0];
   // possibly, in stock...
   if (typeof initialResult === "undefined") {
-    let secondResult = $(".dc-icon-add-to-basket")[0];
+    let secondResult = $(".check-delivery-options")[0];
     // in stock!
     if (typeof secondResult !== "undefined") {
       handleProductFound(ctx);
@@ -341,9 +341,13 @@ const handleProductFound = (ctx) => {
   let twitterMessage = `${ctx.name} \n ${ctx.url}`;
   let logMessage = `${getCurrentDate()} | ${ctx.name} | ${ctx.url} `;
 
-  sendTweet(twitterMessage);
+  // only send tweet when app is live!
+  if (appConfig.TEST_APP == "false")sendTweet(twitterMessage);
+  
   saveToFile(logMessage);
   console.log(logMessage);
+
+
 };
 const saveToFile = (data) => {
   fs.appendFile("log.txt", "\n " + data, function (err) {});
@@ -369,7 +373,7 @@ if (appConfig.ENABLE_APP == "true")
   setInterval(() => {
     checkTargets();
   }, 120000);
-
+  //120000
 // Nvidia
 // $('.featured-buy-link')[0].text()
 // .stock-grey-out
