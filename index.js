@@ -11,22 +11,39 @@ const appConfig = require("./app-config");
 
 let targets = [
   {
-    name: "AMD - Radeon",
+    name: "RX 6900 XT - Gigabyte",
     type: "Gpu",
-    url: "https://www.amd.com/en/where-to-buy/radeon-rx-6000-series-graphics",
-    retailer: "AMDproduct",
+    url:
+      "https://www.scan.co.uk/products/gigabyte-radeon-rx-6900-xt-16gb-gddr6-ray-tracing-graphics-card-rdna2-5120-streams-2015mhz-gpu-2250m",
+    retailer: "ScanUk",
   },
   {
-    name: "AMD - Ryzen",
-    type: "CPU",
-    url: "https://www.amd.com/en/where-to-buy/ryzen-5000-series-processors",
-    retailer: "AMDproduct",
+    name: "RX 6900 XT - ASRock",
+    type: "Gpu",
+    url:
+      "https://www.scan.co.uk/products/asrock-radeon-rx-6900-xt-16gb-gddr6-ray-tracing-graphics-card-rdna2-5120-streams-2015mhz-gpu-2250mhz",
+    retailer: "ScanUk",
   },
   {
-    name: "AMD",
+    name: "RX 6900 XT - Sapphire",
     type: "Gpu",
-    url: "https://www.amd.com/en/direct-buy/gb",
-    retailer: "AMD",
+    url:
+      "https://www.scan.co.uk/products/sapphire-radeon-rx-6900-xt-16gb-gddr6-ray-tracing-graphics-card-rdna2-5120-streams",
+    retailer: "ScanUk",
+  },
+  {
+    name: "RX 6900 XT - Powercolor",
+    type: "Gpu",
+    url:
+      "https://www.scan.co.uk/products/powercolor-radeon-rx-6900-xt-16gb-gddr6-ray-tracing-graphics-card-rdna2-5120-streams",
+    retailer: "ScanUk",
+  },
+  {
+    name: "RX 6900 XT - ASUS",
+    type: "Gpu",
+    url:
+      "https://www.scan.co.uk/products/asus-radeon-rx-6900-xt-16gb-gddr6-ray-tracing-graphics-card-rdna2-5120-streams",
+    retailer: "ScanUk",
   },
   {
     name: "RX 6800 - SAPPHIRE",
@@ -144,6 +161,13 @@ let targets = [
     name: "Ryzen 5 5600X",
     type: "CPU",
     url:
+      "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-5-5600x-processor-10216691-pdt.html",
+    retailer: "Currys",
+  },
+  {
+    name: "Ryzen 5 5600X",
+    type: "CPU",
+    url:
       "https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html",
     retailer: "NovaUk",
   },
@@ -167,7 +191,7 @@ let targets = [
     url:
       "https://www.box.co.uk/100-100000065BOX-AMD-Ryzen-5-5600X-(Socket-AM4)-Processor_3213590.html",
     retailer: "BoxUk",
-  }
+  },
 ];
 
 let testTargets = [
@@ -276,107 +300,112 @@ const checkTargets = () => {
 };
 // END MAIN FUNCTION
 const saveResponseOc = (page, ctx) => {
-  data = [];
-  const $ = cheerio.load(page);
+  try {
+    data = [];
+    const $ = cheerio.load(page);
 
-  let initialResult = $("#comingsoonDetails")[0];
-  // possibly, in stock...
-  if (typeof initialResult === "undefined") {
-    let secondResult = $(".sAddToBasketButton")[0];
-    // in stock!
-    if (typeof secondResult !== "undefined") {
-      handleProductFound(ctx);
+    let initialResult = $("#comingsoonDetails")[0];
+    // possibly, in stock...
+    if (typeof initialResult === "undefined") {
+      let secondResult = $(".sAddToBasketButton")[0];
+      // in stock!
+      if (typeof secondResult !== "undefined") {
+        handleProductFound(ctx);
+      }
+    } else {
     }
-  } else {
+  } catch (err) {
+    let msg = `${ctx.name} \n ${ctx.url}`;
+    console.log(msg);
+    console.log(err);
   }
 };
 const saveResponseScan = (page, ctx) => {
-  data = [];
-  const $ = cheerio.load(page);
+  try {
+    data = [];
+    const $ = cheerio.load(page);
 
-  let initialResult = $(".rightColumn .buyButtonNoPrice")[0];
-  // possibly, in stock...
-  if (typeof initialResult === "undefined") {
-    let secondResult = $(".rightColumn .buyButton")[0];
-    // in stock!
-    if (typeof secondResult !== "undefined") {
-      handleProductFound(ctx);
+    let initialResult = $(".rightColumn .buyButtonNoPrice")[0];
+    // possibly, in stock...
+    if (typeof initialResult === "undefined") {
+      let secondResult = $(".rightColumn .buyButton")[0];
+      // in stock!
+      if (typeof secondResult !== "undefined") {
+        handleProductFound(ctx);
+      }
+    } else {
     }
-  } else {
+  } catch (err) {
+    let msg = `${ctx.name} \n ${ctx.url}`;
+    console.log(msg);
+    console.log(err);
   }
 };
 const saveResponseNovatech = (page, ctx) => {
-  data = [];
-  const $ = cheerio.load(page);
+  try {
+    data = [];
+    const $ = cheerio.load(page);
 
-  let initialResult = $(".alert.alert-danger")[0];
-  // possibly, in stock...
-  if (typeof initialResult === "undefined") {
-    let secondResult = $(".basket-button.green-solid")[0];
-    // in stock!
-    if (typeof secondResult !== "undefined") {
-      handleProductFound(ctx);
+    let initialResult = $(".alert.alert-danger")[0];
+    // possibly, in stock...
+    if (typeof initialResult === "undefined") {
+      let secondResult = $(".basket-button.green-solid")[0];
+      // in stock!
+      if (typeof secondResult !== "undefined") {
+        handleProductFound(ctx);
+      }
+    } else {
     }
-  } else {
+  } catch (err) {
+    let msg = `${ctx.name} \n ${ctx.url}`;
+    console.log(msg);
+    console.log(err);
   }
 };
 const saveResponseBox = (page, ctx) => {
-  data = [];
-  const $ = cheerio.load(page);
+  try {
+    data = [];
+    const $ = cheerio.load(page);
 
-  let initialResult = $(".btn.grey.pop-reminder")[0];
-  // possibly, in stock...
-  if (typeof initialResult === "undefined") {
-    let secondResult = $(".p-buy.green.btn")[0];
-    // in stock!
-    if (typeof secondResult !== "undefined") {
-      handleProductFound(ctx);
+    let initialResult = $(".btn.grey.pop-reminder")[0];
+    // possibly, in stock...
+    if (typeof initialResult === "undefined") {
+      let secondResult = $(".p-buy.green.btn")[0];
+      // in stock!
+      if (typeof secondResult !== "undefined") {
+        handleProductFound(ctx);
+      }
+    } else {
     }
-  } else {
+  } catch (err) {
+    let msg = `${ctx.name} \n ${ctx.url}`;
+    console.log(msg);
+    console.log(err);
   }
 };
 const saveResponseCCL = (page, ctx) => {
-  data = [];
-  const $ = cheerio.load(page);
+  try {
+    data = [];
+    const $ = cheerio.load(page);
 
-  let initialResult = $("#pnlSoldOut")[0];
-  // possibly, in stock...
-  if (typeof initialResult === "undefined") {
-    let secondResult = $("#btnAddToBasket")[0];
-    // in stock!
-    if (typeof secondResult !== "undefined") {
-      handleProductFound(ctx);
+    let initialResult = $("#pnlSoldOut")[0];
+    // possibly, in stock...
+    if (typeof initialResult === "undefined") {
+      let secondResult = $("#btnAddToBasket")[0];
+      // in stock!
+      if (typeof secondResult !== "undefined") {
+        handleProductFound(ctx);
+      }
+    } else {
     }
-  } else {
+  } catch (err) {
+    let msg = `${ctx.name} \n ${ctx.url}`;
+    console.log(msg);
+    console.log(err);
   }
 };
 const saveResponseNvidia = (page, ctx) => {
   // todo later...
-};
-const saveResponseAMD = (page, ctx) => {
-  // https://www.amd.com/en/direct-buy/gb
-  // https://www.amd.com/en/where-to-buy/radeon-rx-6000-series-graphics
-  // let oosText = document.querySelectorAll('.btn-radeon')[0].innerText
-  // AMD.COM - OUT OF STOCK
-  // https://www.amd.com/en/where-to-buy/ryzen-5000-series-processors
-  // let oosText = document.querySelectorAll('.btn-radeon')[0].innerText
-  // AMD.COM - OUT OF STOCK
-};
-const saveResponseAMDProduct = (page, ctx) => {
-  try {
-    data = [];
-    const $ = cheerio.load(page);
-    saveToFile(page);
-    let stockText = $(".btn-radeon")[0].innerText;
-    console.log(stockText);
-    if (stockText != "AMD.COM - OUT OF STOCK") {
-      handleProductFound(ctx);
-    }
-  } catch (err) {
-    console.log("AMD - Product | Error");
-    console.log(err);
-    //sendTweet("AMD Product error!");
-  }
 };
 const saveResponseCurrys = (page, ctx) => {
   try {
@@ -393,6 +422,8 @@ const saveResponseCurrys = (page, ctx) => {
     } else {
     }
   } catch (err) {
+    let msg = `${ctx.name} \n ${ctx.url}`;
+    console.log(msg);
     console.log(err);
   }
 };
@@ -429,7 +460,7 @@ const getCurrentDate = () => {
 if (appConfig.ENABLE_APP == "true") {
   setInterval(() => {
     checkTargets();
-  }, 120000);
+  }, 60000);
 }
 
 // 120000

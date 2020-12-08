@@ -1,30 +1,318 @@
 
- 11/21/2020 | 20:42:46 | TEST | Ryzen 5 3600X | https://www.novatech.co.uk/products/amd-ryzen-5-3600x-six-core-processorcpu-with-wraith-spire-cooler/100-100000022box.html 
- 11/21/2020 | 20:45:42 | TEST | Ryzen 5 3600X | https://www.novatech.co.uk/products/amd-ryzen-5-3600x-six-core-processorcpu-with-wraith-spire-cooler/100-100000022box.html 
- 11/21/2020 | 20:47:42 | TEST | Ryzen 5 3600X | https://www.novatech.co.uk/products/amd-ryzen-5-3600x-six-core-processorcpu-with-wraith-spire-cooler/100-100000022box.html 
- 11/21/2020 | 20:53:17 | TEST | Ryzen 5 3600XT | https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html 
- 11/21/2020 | 20:57:10 | TEST | RADEON RX 5600 XT PULSE | https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html 
- 11/21/2020 | 20:57:10 | TEST | Ryzen 5 3600XT | https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html 
- 11/21/2020 | 20:57:10 | TEST | PowerColor Red Devil AMD Radeon RX 5700 XT | https://www.scan.co.uk/products/powercolor-radeon-rx-5700-xt-red-devil-8gb-gddr6-pcie-40-gpu-7nm-rdna-2560-streams-1770mhz-gpu-2010m 
- 11/21/2020 | 20:57:12 | TEST | Ryzen 7 3800X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-3800x-processor-10194807-pdt.html?intcmpid=display~RR 
- 11/21/2020 | 20:57:13 | TEST | RADEON RX 5600 XT PULSE | https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html 
- 11/21/2020 | 20:57:13 | TEST | Ryzen 5 3600XT | https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html 
- 11/21/2020 | 20:57:13 | TEST | PowerColor Red Devil AMD Radeon RX 5700 XT | https://www.scan.co.uk/products/powercolor-radeon-rx-5700-xt-red-devil-8gb-gddr6-pcie-40-gpu-7nm-rdna-2560-streams-1770mhz-gpu-2010m 
- 11/21/2020 | 20:57:15 | TEST | Ryzen 7 3800X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-3800x-processor-10194807-pdt.html?intcmpid=display~RR 
- 11/21/2020 | 20:57:16 | TEST | RADEON RX 5600 XT PULSE | https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html 
- 11/21/2020 | 20:57:16 | TEST | Ryzen 5 3600XT | https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html 
- 11/21/2020 | 20:57:16 | TEST | PowerColor Red Devil AMD Radeon RX 5700 XT | https://www.scan.co.uk/products/powercolor-radeon-rx-5700-xt-red-devil-8gb-gddr6-pcie-40-gpu-7nm-rdna-2560-streams-1770mhz-gpu-2010m 
- 11/21/2020 | 20:57:18 | TEST | Ryzen 7 3800X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-3800x-processor-10194807-pdt.html?intcmpid=display~RR 
- 11/21/2020 | 20:57:19 | TEST | RADEON RX 5600 XT PULSE | https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html 
- 11/21/2020 | 20:57:19 | TEST | Ryzen 5 3600XT | https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html 
- 11/21/2020 | 20:57:19 | TEST | PowerColor Red Devil AMD Radeon RX 5700 XT | https://www.scan.co.uk/products/powercolor-radeon-rx-5700-xt-red-devil-8gb-gddr6-pcie-40-gpu-7nm-rdna-2560-streams-1770mhz-gpu-2010m 
- 11/21/2020 | 20:57:21 | TEST | Ryzen 7 3800X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-3800x-processor-10194807-pdt.html?intcmpid=display~RR 
- 11/21/2020 | 20:57:22 | TEST | RADEON RX 5600 XT PULSE | https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html 
- 11/21/2020 | 20:57:22 | TEST | Ryzen 5 3600XT | https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html 
- 11/21/2020 | 20:57:22 | TEST | PowerColor Red Devil AMD Radeon RX 5700 XT | https://www.scan.co.uk/products/powercolor-radeon-rx-5700-xt-red-devil-8gb-gddr6-pcie-40-gpu-7nm-rdna-2560-streams-1770mhz-gpu-2010m 
- 11/21/2020 | 20:57:24 | TEST | Ryzen 7 3800X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-3800x-processor-10194807-pdt.html?intcmpid=display~RR 
- 11/21/2020 | 20:57:25 | TEST | RADEON RX 5600 XT PULSE | https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html 
- 11/21/2020 | 20:57:25 | TEST | Ryzen 5 3600XT | https://www.box.co.uk/AMD-Ryzen-5-3600XT-(Socket-AM4)-Processo_2964025.html 
- 11/21/2020 | 20:57:25 | TEST | PowerColor Red Devil AMD Radeon RX 5700 XT | https://www.scan.co.uk/products/powercolor-radeon-rx-5700-xt-red-devil-8gb-gddr6-pcie-40-gpu-7nm-rdna-2560-streams-1770mhz-gpu-2010m 
- 11/21/2020 | 20:57:27 | TEST | Ryzen 7 3800X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-3800x-processor-10194807-pdt.html?intcmpid=display~RR 
- 11/21/2020 | 20:57:28 | TEST | RADEON RX 5600 XT PULSE | https://www.overclockers.co.uk/sapphire-radeon-rx-5600-xt-pulse-6144mb-14gbps-gddr6-pci-express-graphics-card-gx-396-sp.html 
+ 12/02/2020 | 10:30:2 | Ryzen 9 5900X | https://www.novatech.co.uk/products/amd-ryzen-9-5900x-twelve-core-processorcpu-without-cooler-/100-100000061wof.html 
+ 12/02/2020 | 10:31:3 | Ryzen 9 5900X | https://www.novatech.co.uk/products/amd-ryzen-9-5900x-twelve-core-processorcpu-without-cooler-/100-100000061wof.html 
+ 12/02/2020 | 10:32:3 | Ryzen 9 5900X | https://www.novatech.co.uk/products/amd-ryzen-9-5900x-twelve-core-processorcpu-without-cooler-/100-100000061wof.html 
+ 12/03/2020 | 11:49:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 11:50:31 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 11:51:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 11:52:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 11:53:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 11:54:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 11:57:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 11:58:31 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 12:13:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 12:14:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 12:40:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 12:41:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 12:42:31 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 12:43:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 12:44:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 13:53:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 13:54:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 13:55:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 13:56:32 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/03/2020 | 14:58:56 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 14:58:56 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 14:59:57 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 14:59:57 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 15:0:57 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 15:0:57 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 15:1:57 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 15:1:57 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 15:2:57 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 15:2:57 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 15:3:56 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 15:3:56 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 15:4:56 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 15:4:56 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 19:11:14 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 19:11:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 19:12:14 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 19:12:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 19:13:14 | RX 6800 - SAPPHIRE | https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html 
+ 12/03/2020 | 19:13:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 20:3:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 20:4:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 20:5:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 20:6:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/03/2020 | 20:7:14 | RX 6800 - PowerColor | https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html 
+ 12/04/2020 | 9:10:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:11:16 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:12:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:13:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:14:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:15:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:16:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:17:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:18:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:19:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:20:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:21:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:22:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:23:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:24:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:25:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:26:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:27:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:28:15 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/04/2020 | 9:28:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:29:15 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/04/2020 | 9:29:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:30:15 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/04/2020 | 9:30:16 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:31:16 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:32:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:33:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:34:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:35:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:36:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:37:16 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/04/2020 | 9:38:17 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 9:6:10 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 9:6:36 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 9:7:36 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 9:8:37 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:44:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:45:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:46:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:47:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:48:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:49:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:50:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 15:51:58 | Ryzen 5 5600X | https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html 
+ 12/07/2020 | 16:19:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:21:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:21:59 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:23:59 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:25:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:26:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:36:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:38:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:39:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:40:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:41:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:42:59 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/07/2020 | 16:44:0 | Ryzen 9 5900X | https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html 
+ 12/08/2020 | 11:9:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 11:10:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 11:11:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:38:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:39:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:40:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:41:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:42:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:43:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:44:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:45:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:46:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:47:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:48:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:49:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:50:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:51:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:52:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:53:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:54:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:55:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:56:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:57:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:58:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 13:59:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:0:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:1:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:2:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:3:27 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:4:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:5:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:6:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:7:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:8:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:9:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:10:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:11:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:12:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:13:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:14:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:15:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:16:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:17:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:18:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:19:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:20:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:21:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:22:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:23:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:24:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:25:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:26:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:27:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:28:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:29:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:30:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:31:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:32:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:33:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:34:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:35:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:36:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:37:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:38:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:39:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:40:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:41:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:42:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:43:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:44:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:45:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:46:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:47:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:48:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:49:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:50:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:51:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:52:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:53:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:54:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:55:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:56:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:57:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:58:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 14:59:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:0:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:1:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:2:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:3:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:4:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:5:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:6:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:7:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:8:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:9:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:10:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:11:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:12:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:14:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:15:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:16:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:17:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:18:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:19:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:20:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:21:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:22:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:23:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:24:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:25:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:26:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:27:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:28:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:29:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:30:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:31:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:32:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:33:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:34:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:35:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:36:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:37:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:38:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:39:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:40:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:41:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:42:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:43:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:44:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:45:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:46:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:47:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:48:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:49:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:50:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:51:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:52:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:53:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:54:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:55:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:56:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:57:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:58:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 15:59:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:0:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:1:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:2:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:3:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:4:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:5:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:6:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:7:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:8:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:9:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:10:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:11:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:12:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:13:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:14:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:15:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:16:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:17:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:18:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:19:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:20:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:21:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:22:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:23:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:24:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:25:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:26:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:27:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:28:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:29:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:30:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:31:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:32:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:33:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:34:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:35:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:36:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:37:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:38:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:39:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:40:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:41:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:42:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:43:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:44:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:45:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:46:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:47:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:48:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:49:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:50:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:51:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:52:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:53:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:54:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:55:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:56:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:57:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:58:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 16:59:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:0:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:1:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:2:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:3:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:4:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:5:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:6:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:7:25 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
+ 12/08/2020 | 17:8:26 | Ryzen 7 5800X | https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html 
