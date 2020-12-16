@@ -46,6 +46,27 @@ let targets = [
     retailer: "ScanUk",
   },
   {
+    name: "RX 6800 XT - Red Devil",
+    type: "Gpu",
+    url:
+      "https://www.scan.co.uk/products/powercolor-radeon-rx-6800-xt-red-devil-le-16gb-gddr6-ray-tracing-graphics-card-rdna2-4608-streams-20",
+    retailer: "ScanUk",
+  },
+  {
+    name: "RX 6800 XT - Red Dragon",
+    type: "Gpu",
+    url:
+      "https://www.scan.co.uk/products/powercolor-radeon-rx-6800-xt-red-dragon-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-4608-stream",
+    retailer: "ScanUk",
+  },
+  {
+    name: "RX 6800 XT - TUF Gaming",
+    type: "Gpu",
+    url:
+      "https://www.scan.co.uk/products/powercolor-radeon-rx-6800-xt-red-dragon-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-4608-stream",
+    retailer: "ScanUk",
+  },
+  {
     name: "RX 6800 - SAPPHIRE",
     type: "Gpu",
     url:
@@ -74,19 +95,89 @@ let targets = [
     retailer: "OcUk",
   },
   {
+    name: "RX 6800 XT - Red Devil",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/powercolor-radeon-rx-6800-xt-red-devil-16gb-pci-express-graphics-card-gx-19t-pc.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6800 XT - Red Devil(Limted)",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/powercolor-radeon-rx-6800-xt-red-devil-limited-edition-16gb-pci-express-graphics-card-gx-19s-pc.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6800 XT - Sapphire Pulse",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/sapphire-radeon-rx-6800-xt-pulse-16gb-gddr6-pci-express-graphics-card-gx-39c-sp.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6800 XT - Red Dragon",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/powercolor-radeon-rx-6800-xt-red-dragon-16gb-pci-express-graphics-card-gx-19u-pc.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6800 XT - NITRO+OC",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/sapphire-radeon-rx-6800-xt-nitro-oc-16gb-gddr6-pci-express-graphics-card-gx-453-as.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6800 XT - NITRO+OC SE",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/sapphire-radeon-rx-6800-xt-nitro-oc-se-16gb-gddr6-pci-express-graphics-card-gx-39a-sp.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6900 XT - ASUS",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/asus-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-457-as.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6900 XT - PowerColor",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/powercolor-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-1a0-pc.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6900 XT - AsRock",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/asrock-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-00f-ak.html",
+    retailer: "OcUk",
+  },
+  {
+    name: "RX 6900 XT - SAPPHIRE",
+    type: "Gpu",
+    url:
+      "https://www.overclockers.co.uk/sapphire-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-39e-sp.html",
+    retailer: "OcUk",
+  },
+  {
     name: "RYZEN 5 5600X",
     type: "CPU",
     url:
       "https://www.overclockers.co.uk/amd-ryzen-5-5600x-six-core-4.6ghz-socket-am4-processor-retail-cp-3cc-am.html",
     retailer: "OcUk",
   },
-  {
-    name: "RYZEN 7 5800X",
-    type: "CPU",
-    url:
-      "https://www.overclockers.co.uk/amd-ryzen-7-5800x-eight-core-4.7ghz-socket-am4-processor-retail-cp-3cb-am.html",
-    retailer: "OcUk",
-  },
+  // {
+  //   name: "RYZEN 7 5800X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.overclockers.co.uk/amd-ryzen-7-5800x-eight-core-4.7ghz-socket-am4-processor-retail-cp-3cb-am.html",
+  //   retailer: "OcUk",
+  // },
   {
     name: "RYZEN 9 5900X",
     type: "CPU",
@@ -122,6 +213,20 @@ let targets = [
       "https://www.scan.co.uk/products/powercolor-radeon-rx-6800-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-3840-streams",
     retailer: "ScanUk",
   },
+  // {
+  //   name: "RYZEN 7 5800X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.scan.co.uk/products/amd-ryzen-7-5800x-am4-zen-3-8-core-16-thread-38ghz-47ghz-turbo-36mb-cache-pcie-40-105w-cpu",
+  //   retailer: "ScanUk",
+  // },
+  {
+    name: "RYZEN 5 5600X",
+    type: "CPU",
+    url:
+      "https://www.scan.co.uk/products/amd-ryzen-5-5600x-am4-zen-3-6-core-12-thread-37ghz-46ghz-turbo-35mb-cache-pcie-40-65w-cpu",
+    retailer: "ScanUk",
+  },
   {
     name: "RYZEN 9 5900X",
     type: "CPU",
@@ -130,12 +235,89 @@ let targets = [
     retailer: "CCL",
   },
   {
-    name: "RYZEN 7 5800X",
+    name: "RYZEN 5 5600X",
     type: "CPU",
     url:
-      "https://www.cclonline.com/product/331766/100-100000063WOF/CPU-Processors/AMD-Ryzen-7-5800X-3-8GHz-Octa-Core-Processor-with-8-Cores-16-Threads-105W-TDP-36MB-Cache-4-7GHz-Turbo-No-Cooler/CPU0680/",
+      "https://www.cclonline.com/product/331765/100-100000065BOX/CPU-Processors/AMD-Ryzen-5-5600X-3-7GHz-Hexa-Core-Processor-with-6-Cores-12-Threads-65W-TDP-35MB-Cache-4-6GHz-Turbo-Wraith-Stealth-Cooler/CPU0679/",
     retailer: "CCL",
   },
+  {
+    name: "RX 6800 XT - Red Dragon",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336071/AXRX-6800XT-16GBD6-3DHR/OC/Graphics-Cards/PowerColor-Radeon-RX-6800XT-Red-Dragon-16GB-Overclocked-Graphics-Card/VGA5958/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 XT - Red Devil",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336072/AXRX-6800XT-16GBD6-3DHE/OC/Graphics-Cards/PowerColor-Radeon-RX-6800XT-Red-Devil-16GB-Overclocked-Graphics-Card/VGA5959/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 XT - Red Devil(Limited Edition)",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336545/AXRX-6800XT-16GBD6-2DHCE/OC/Graphics-Cards/PowerColor-Radeon-RX-6800XT-Red-Devil-Limited-Edition-16GB-Overclocked-Graphics-Card/VGA5972/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 XT - TUF Gaming",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336657/90YV0FL1-M0NM00/Graphics-Cards/ASUS-TUF-Gaming-Radeon-RX-6800-XT-16GB-Overclocked-Graphics-Card-TUF-RX6800XT-O16G-GAMING-/VGA5978/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 XT - XFX MERC319",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336234/RX-68XTACBD9/Graphics-Cards/XFX-Speedster-MERC319-Radeon-RX-6800-XT-BLACK-16GB-Graphics-Card/VGA5971/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 (non-xt) - Red Dragon",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336069/AXRX-6800-16GBD6-3DHR/OC/Graphics-Cards/PowerColor-Radeon-RX-6800-Red-Dragon-16GB-Overclocked-Graphics-Card/VGA5956/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 (non-xt) - Red Devil",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336070/AXRX-6800-16GBD6-3DHE/OC/Graphics-Cards/PowerColor-Radeon-RX-6800-Red-Devil-16GB-Overclocked-Graphics-Card/VGA5957/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 (non-xt) - Aorus Master",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336770/GV-R68AORUS-M-16GD/Graphics-Cards/Gigabyte-AORUS-Radeon-RX-6800-MASTER-16GB-Overclocked-Graphics-Card/VGA5982/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 (non-xt) - Gigabyte Gaming",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336768/GV-R68GAMING-OC-16GD/Graphics-Cards/Gigabyte-Radeon-RX-6800-GAMING-OC-16GB-Overclocked-Graphics-Card/VGA5980/",
+    retailer: "CCL",
+  },
+  {
+    name: "RX 6800 (non-xt) - XFX MERC319",
+    type: "Gpu",
+    url:
+      "https://www.cclonline.com/product/336850/RX-68XLATBD9/Graphics-Cards/XFX-Speedster-MERC319-Radeon-RX-6800-BLACK-16GB-Graphics-Card/VGA5986/",
+    retailer: "CCL",
+  },
+  // {
+  //   name: "RYZEN 7 5800X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.cclonline.com/product/331766/100-100000063WOF/CPU-Processors/AMD-Ryzen-7-5800X-3-8GHz-Octa-Core-Processor-with-8-Cores-16-Threads-105W-TDP-36MB-Cache-4-7GHz-Turbo-No-Cooler/CPU0680/",
+  //   retailer: "CCL",
+  // },
   {
     name: "RTX 3080 FE",
     type: "Gpu",
@@ -150,13 +332,13 @@ let targets = [
       "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html",
     retailer: "Currys",
   },
-  {
-    name: "Ryzen 7 5800X",
-    type: "CPU",
-    url:
-      "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-5800x-processor-10216690-pdt.html",
-    retailer: "Currys",
-  },
+  // {
+  //   name: "Ryzen 7 5800X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-5800x-processor-10216690-pdt.html",
+  //   retailer: "Currys",
+  // },
   {
     name: "Ryzen 5 5600X",
     type: "CPU",
@@ -171,13 +353,13 @@ let targets = [
       "https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html",
     retailer: "NovaUk",
   },
-  {
-    name: "Ryzen 7 5800X",
-    type: "CPU",
-    url:
-      "https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html",
-    retailer: "NovaUk",
-  },
+  // {
+  //   name: "Ryzen 7 5800X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html",
+  //   retailer: "NovaUk",
+  // },
   {
     name: "Ryzen 9 5900X",
     type: "CPU",
@@ -460,7 +642,7 @@ const getCurrentDate = () => {
 if (appConfig.ENABLE_APP == "true") {
   setInterval(() => {
     checkTargets();
-  }, 60000);
+  }, 45000);
 }
 
 // 120000
