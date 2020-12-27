@@ -164,13 +164,13 @@ let targets = [
       "https://www.overclockers.co.uk/sapphire-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-39e-sp.html",
     retailer: "OcUk",
   },
-  {
-    name: "RYZEN 5 5600X",
-    type: "CPU",
-    url:
-      "https://www.overclockers.co.uk/amd-ryzen-5-5600x-six-core-4.6ghz-socket-am4-processor-retail-cp-3cc-am.html",
-    retailer: "OcUk",
-  },
+  // {
+  //   name: "RYZEN 5 5600X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.overclockers.co.uk/amd-ryzen-5-5600x-six-core-4.6ghz-socket-am4-processor-retail-cp-3cc-am.html",
+  //   retailer: "OcUk",
+  // },
   // {
   //   name: "RYZEN 7 5800X",
   //   type: "CPU",
@@ -178,13 +178,13 @@ let targets = [
   //     "https://www.overclockers.co.uk/amd-ryzen-7-5800x-eight-core-4.7ghz-socket-am4-processor-retail-cp-3cb-am.html",
   //   retailer: "OcUk",
   // },
-  {
-    name: "RYZEN 9 5900X",
-    type: "CPU",
-    url:
-      "https://www.overclockers.co.uk/amd-ryzen-9-5900x-twelve-core-4.8ghz-socket-am4-processor-retail-cp-3ca-am.html",
-    retailer: "OcUk",
-  },
+  // {
+  //   name: "RYZEN 9 5900X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.overclockers.co.uk/amd-ryzen-9-5900x-twelve-core-4.8ghz-socket-am4-processor-retail-cp-3ca-am.html",
+  //   retailer: "OcUk",
+  // },
   {
     name: "RX 6800 XT - SAPPHIRE",
     type: "Gpu",
@@ -220,27 +220,27 @@ let targets = [
   //     "https://www.scan.co.uk/products/amd-ryzen-7-5800x-am4-zen-3-8-core-16-thread-38ghz-47ghz-turbo-36mb-cache-pcie-40-105w-cpu",
   //   retailer: "ScanUk",
   // },
-  {
-    name: "RYZEN 5 5600X",
-    type: "CPU",
-    url:
-      "https://www.scan.co.uk/products/amd-ryzen-5-5600x-am4-zen-3-6-core-12-thread-37ghz-46ghz-turbo-35mb-cache-pcie-40-65w-cpu",
-    retailer: "ScanUk",
-  },
-  {
-    name: "RYZEN 9 5900X",
-    type: "CPU",
-    url:
-      "https://www.cclonline.com/product/331767/100-100000061WOF/CPU-Processors/AMD-Ryzen-9-5900X-3-7GHz-Dodeca-Core-Processor-with-12-Cores-24-Threads-105W-TDP-70MB-Cache-4-8GHz-Turbo-No-Cooler/CPU0681/",
-    retailer: "CCL",
-  },
-  {
-    name: "RYZEN 5 5600X",
-    type: "CPU",
-    url:
-      "https://www.cclonline.com/product/331765/100-100000065BOX/CPU-Processors/AMD-Ryzen-5-5600X-3-7GHz-Hexa-Core-Processor-with-6-Cores-12-Threads-65W-TDP-35MB-Cache-4-6GHz-Turbo-Wraith-Stealth-Cooler/CPU0679/",
-    retailer: "CCL",
-  },
+  // {
+  //   name: "RYZEN 5 5600X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.scan.co.uk/products/amd-ryzen-5-5600x-am4-zen-3-6-core-12-thread-37ghz-46ghz-turbo-35mb-cache-pcie-40-65w-cpu",
+  //   retailer: "ScanUk",
+  // },
+  // {
+  //   name: "RYZEN 9 5900X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.cclonline.com/product/331767/100-100000061WOF/CPU-Processors/AMD-Ryzen-9-5900X-3-7GHz-Dodeca-Core-Processor-with-12-Cores-24-Threads-105W-TDP-70MB-Cache-4-8GHz-Turbo-No-Cooler/CPU0681/",
+  //   retailer: "CCL",
+  // },
+  // {
+  //   name: "RYZEN 5 5600X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.cclonline.com/product/331765/100-100000065BOX/CPU-Processors/AMD-Ryzen-5-5600X-3-7GHz-Hexa-Core-Processor-with-6-Cores-12-Threads-65W-TDP-35MB-Cache-4-6GHz-Turbo-Wraith-Stealth-Cooler/CPU0679/",
+  //   retailer: "CCL",
+  // },
   {
     name: "RX 6800 XT - Red Dragon",
     type: "Gpu",
@@ -325,13 +325,13 @@ let targets = [
       "https://www.nvidia.com/en-gb/shop/geforce/gpu/?page=1&limit=9&locale=en-gb&category=GPU&gpu=RTX%203080",
     retailer: "Nvidia",
   },
-  {
-    name: "Ryzen 9 5900X",
-    type: "CPU",
-    url:
-      "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html",
-    retailer: "Currys",
-  },
+  // {
+  //   name: "Ryzen 9 5900X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-9-5900x-processor-10216689-pdt.html",
+  //   retailer: "Currys",
+  // },
   // {
   //   name: "Ryzen 7 5800X",
   //   type: "CPU",
@@ -339,20 +339,20 @@ let targets = [
   //     "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-7-5800x-processor-10216690-pdt.html",
   //   retailer: "Currys",
   // },
-  {
-    name: "Ryzen 5 5600X",
-    type: "CPU",
-    url:
-      "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-5-5600x-processor-10216691-pdt.html",
-    retailer: "Currys",
-  },
-  {
-    name: "Ryzen 5 5600X",
-    type: "CPU",
-    url:
-      "https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html",
-    retailer: "NovaUk",
-  },
+  // {
+  //   name: "Ryzen 5 5600X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-5-5600x-processor-10216691-pdt.html",
+  //   retailer: "Currys",
+  // },
+  // {
+  //   name: "Ryzen 5 5600X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.novatech.co.uk/products/amd-ryzen-5-5600x-six-core-processorcpu-with-stealth-cooler-/100-000000065box.html",
+  //   retailer: "NovaUk",
+  // },
   // {
   //   name: "Ryzen 7 5800X",
   //   type: "CPU",
@@ -360,20 +360,20 @@ let targets = [
   //     "https://www.novatech.co.uk/products/amd-ryzen-7-5800x-eight-core-processorcpu-without-cooler-/100-000000063wof.html",
   //   retailer: "NovaUk",
   // },
-  {
-    name: "Ryzen 9 5900X",
-    type: "CPU",
-    url:
-      "https://www.novatech.co.uk/products/amd-ryzen-9-5900x-twelve-core-processorcpu-without-cooler-/100-100000061wof.html",
-    retailer: "NovaUk",
-  },
-  {
-    name: "Ryzen 5 5600X",
-    type: "CPU",
-    url:
-      "https://www.box.co.uk/100-100000065BOX-AMD-Ryzen-5-5600X-(Socket-AM4)-Processor_3213590.html",
-    retailer: "BoxUk",
-  },
+  // {
+  //   name: "Ryzen 9 5900X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.novatech.co.uk/products/amd-ryzen-9-5900x-twelve-core-processorcpu-without-cooler-/100-100000061wof.html",
+  //   retailer: "NovaUk",
+  // },
+  // {
+  //   name: "Ryzen 5 5600X",
+  //   type: "CPU",
+  //   url:
+  //     "https://www.box.co.uk/100-100000065BOX-AMD-Ryzen-5-5600X-(Socket-AM4)-Processor_3213590.html",
+  //   retailer: "BoxUk",
+  // },
 ];
 
 let testTargets = [
